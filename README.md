@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I am Niranjan Mediratta. I am a sophomore at Columbia University studying Computer Science and Applied Mathematics. I am passionate about building scalable full-stack applications that solve real problems for real people.
+Hey, I am Niranjan. I am a sophomore at Columbia University studying Computer Science and Applied Mathematics. I am passionate about building scalable full-stack applications that solve real problems for real people.
 
 I'm currently diving into AI engineering—building retrieval-augmented generation systems, autonomous agents, and experimenting with LangChain.
 
