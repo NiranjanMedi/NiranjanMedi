@@ -4,7 +4,7 @@ Hey, I am Niranjan. I am a sophomore at Columbia University studying Computer Sc
 
 Lately, I've been exploring AI development through building RAG systems, AI agents, and working with frameworks like LangChain.
 
-## What I Have Been Building
+## What I Have Been Building Lately
 
 **RAG Notes App** — A full-stack note-taking app with RAG that lets you upload documents, ask questions, and get answers with citations.
 
