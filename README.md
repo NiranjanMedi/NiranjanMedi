@@ -2,7 +2,7 @@
 
 Hey, I am Niranjan. I am a sophomore at Columbia University studying Computer Science and Applied Mathematics. I am passionate about building scalable full-stack applications that solve real problems for real people.
 
-Lately, I've been exploring AI development through building RAG systems, AI agents, and working with frameworks like LangChain.
+Recently, I've been exploring AI development through building RAG systems, AI agents, and working with frameworks like LangChain.
 
 ## What I Have Been Building Lately
 
