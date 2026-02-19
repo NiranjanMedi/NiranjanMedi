@@ -14,6 +14,12 @@ Working on a programmable agent execution environment with its own language and 
 **SecureUs** — A safety-rating web app used by 7,000+ people to check neighborhood safety.
 
 
+## Interests
+- Agent infrastructure and reasoning systems
+- Backend systems & data pipelines
+- Market structure / financial systems
+
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/niranjan-mediratta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm3580@columbia.edu)
