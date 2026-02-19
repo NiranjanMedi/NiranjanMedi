@@ -6,7 +6,7 @@ I spend most of my time building backend systems, data pipelines, and projects a
 
 ## What I Have Been Building Lately
 
-**Agent Runtime Research** - Working on a programmable agent execution environment with its own language and compiler that turns agent logic into structured workflows. The idea is to make multi-agent behavior reliable and inspectable instead of just hoping a prompt works.
+**Agent Runtime Research** — Working on a programmable agent execution environment with its own language and compiler that turns agent logic into structured workflows. The idea is to make multi-agent behavior reliable and inspectable instead of just hoping a prompt works.
 
 **RAG Notes App** — A full-stack note-taking app with RAG that lets you upload documents, ask questions, and get answers with citations.
 
