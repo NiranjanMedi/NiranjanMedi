@@ -8,7 +8,7 @@ I'm primarily interested in systems programming and low-level infrastructure —
 
 **Agent Runtime Research** — Research with Professors Zhuo Zhang and Professor Guannan Wei on a programmable agent execution environment with its own language and compiler that turns agent logic into structured workflows. The goal is to make multi-agent behavior reliable and inspectable instead of purely prompt-driven.
 
-**RAG Notes App** — A full-stack note-taking app with RAG that lets you upload documents, ask questions, and get answers with citations.
+**LiveCode** — A distributed multiplayer IDE where multiple users can edit code simultaneously in real time. Built on CRDTs to handle concurrent edits without conflicts.
 
 **SecureUs** — A safety-rating web app used by 7,000+ people to check neighborhood safety.
 
