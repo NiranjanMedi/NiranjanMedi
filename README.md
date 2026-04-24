@@ -6,7 +6,7 @@ I spend most of my time building backend systems, data pipelines, and projects a
 
 ## What I Have Been Building Lately
 
-**Agent Runtime Research** — Research with Professors Zhuo Zhang and Guannan Wei on a programmable agent execution environment with its own language and compiler that turns agent logic into structured workflows. The goal is to make multi-agent behavior reliable and inspectable instead of purely prompt-driven.
+**Agent Runtime Research** — Research with Professors Zhuo Zhang and Professor Guannan Wei on a programmable agent execution environment with its own language and compiler that turns agent logic into structured workflows. The goal is to make multi-agent behavior reliable and inspectable instead of purely prompt-driven.
 
 **RAG Notes App** — A full-stack note-taking app with RAG that lets you upload documents, ask questions, and get answers with citations.
 
