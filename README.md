@@ -2,7 +2,7 @@
 
 Hey, I am Niranjan. I am a sophomore at Columbia University studying Computer Science and Applied Mathematics. 
 
-I spend most of my time building backend systems, data pipelines, and projects around agents and retrieval. Recently I’ve been interested in making LLM behavior more reliable instead of purely prompt-driven.
+I spend most of my time building backend systems, data pipelines and projects around agents and retrieval. Recently I’ve been interested in making LLM behavior more reliable instead of purely prompt-driven.
 
 ## What I Have Been Building Lately
 
@@ -11,6 +11,8 @@ I spend most of my time building backend systems, data pipelines, and projects a
 **RAG Notes App** — A full-stack note-taking app with RAG that lets you upload documents, ask questions, and get answers with citations.
 
 **SecureUs** — A safety-rating web app used by 7,000+ people to check neighborhood safety.
+
+**National Stock Exchange of India Internship** — Worked on low-latency trading systems at the National Stock Exchange of India, building network components in C over TCP/IP.
 
 
 ## Interests
