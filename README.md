@@ -17,7 +17,7 @@ I'm primarily interested in systems programming and low-level infrastructure so 
 
 ## Interests
 - Agent infrastructure and reasoning systems
-- Backend systems & data pipelines
+- Backend systems
 - Market structure / financial systems
 
 
