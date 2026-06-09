@@ -2,7 +2,7 @@
 
 Hey, I am Niranjan. I am a sophomore at Columbia University studying Computer Science and Applied Mathematics. 
 
-I'm primarily interested in systems programming and low-level infrastructure — memory management, concurrency, and how software actually runs under the hood.
+I'm primarily interested in systems programming and low-level infrastructure so that I can understand how software actually runs under the hood.
 
 ## What I Have Been Building Lately
 
