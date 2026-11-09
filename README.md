@@ -21,7 +21,7 @@ Lately I’ve been living below the syscall boundary, adding my own system calls
 
 ## Tools I Reach For
 
-Rust · Python · C/C++ · PostgreSQL · Temporal · Docker · Linux
+C/C++ · Python · Rust · PostgreSQL · Temporal · Docker · Linux
 
 ## Socials
 
