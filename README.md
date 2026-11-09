@@ -5,7 +5,7 @@ Hey, I'm Niranjan, a junior at Columbia studying Computer Science and Applied Ma
 ## What I'm Into Right Now
 
 ### Agents as programs, not prompts
-At [PASTA Lab] I work on ChitChat, an agent-oriented language in Rust. Agent logic is parsed into an AST and run by an evaluator, with sandboxed tools and a provider-agnostic model layer. Because agents are real programs, you can inspect, test, and reason about them. We're also exploring reflection, so programs can rewrite their own structure.
+At PASTA Lab I work on ChitChat, an agent-oriented language in Rust. Agent logic is parsed into an AST and run by an evaluator, with sandboxed tools and a provider-agnostic model layer. Because agents are real programs, you can inspect, test, and reason about them. We're also exploring reflection, so programs can rewrite their own structure.
  
 ### Infrastructure for agent platforms
 At Sarvam AI I worked on the backend of their agent platform: durable workflows on Temporal, a Postgres-backed memory layer, replay testing with a fake LLM, and hardening the boundary where users plug in their own MCP servers.
