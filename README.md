@@ -11,7 +11,7 @@ At PASTA Lab I work on ChitChat, an agent-oriented language in Rust. Agent logic
 At Sarvam AI I worked on the backend of their agent platform: durable workflows on Temporal, a Postgres-backed memory layer, replay testing with a fake LLM, and hardening the boundary where users plug in their own MCP servers.
  
 ### Kernels
-This semester I'm writing Linux kernel code for my OS class and seeing what sits under the syscall boundary.
+Lately I’ve been living below the syscall boundary, adding my own system calls and scheduling classes to the Linux kernel and seeing what really happens when a process asks the OS for something.
 
 ## Other Things I've Built
 
