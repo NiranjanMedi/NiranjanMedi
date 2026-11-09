@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I'm Niranjan, a junior at Columbia studying Computer Science and Applied Math. I like the layer underneath: runtimes, kernels, storage, and the plumbing that decides whether a system is actually reliable or just looks that way.
+Hey, I'm Niranjan, a junior at Columbia studying Computer Science and Applied Math. I like the layer underneath: runtimes, kernels, storage and the infrastructure makes stuff fast and reliable.
 
 ## What I'm Into Right Now
 
