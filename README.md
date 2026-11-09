@@ -4,13 +4,14 @@ Hey, I'm Niranjan, a junior at Columbia studying Computer Science and Applied Ma
 
 ## What I'm Into Right Now
 
-**Agents as programs, not prompts.** Most agent frameworks are a loop around an LLM call with tools bolted on. At [PASTA Lab] I work on ChitChat, an agent-oriented language in Rust. Agent logic is parsed into an AST and run by an evaluator, tools live behind a common trait and registry, custom tools run sandboxed, and model calls go through one provider-agnostic layer. Since agent behavior is a real program, you can inspect it, test it, and reason about it. We're also exploring reflection, so programs can inspect and rewrite their own structure.
-
-**Infrastructure for agent platforms.** At Sarvam AI I worked on the backend of their agent platform: durable workflows on Temporal, a Postgres-backed memory layer for agents, replay testing with a fake LLM so workflow changes can't silently break runs already in flight, and hardening the boundary where users plug in their own MCP servers.
-
-**Kernels.** This semester I'm writing Linux kernel code for my OS class and finally seeing what sits under the syscall boundary.
-
-**Market structure.** I got into this simulating an exchange's pre-open order matching at the National Stock Exchange of India, and it's stuck with me since.
+### Agents as programs, not prompts
+At [PASTA Lab] I work on ChitChat, an agent-oriented language in Rust. Agent logic is parsed into an AST and run by an evaluator, with sandboxed tools and a provider-agnostic model layer. Because agents are real programs, you can inspect, test, and reason about them. We're also exploring reflection, so programs can rewrite their own structure.
+ 
+### Infrastructure for agent platforms
+At Sarvam AI I worked on the backend of their agent platform: durable workflows on Temporal, a Postgres-backed memory layer, replay testing with a fake LLM, and hardening the boundary where users plug in their own MCP servers.
+ 
+### Kernels
+This semester I'm writing Linux kernel code for my OS class and seeing what sits under the syscall boundary.
 
 ## Other Things I've Built
 
