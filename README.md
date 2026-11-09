@@ -15,7 +15,7 @@ Lately I’ve been living below the syscall boundary, adding my own system calls
 
 ## Other Things I've Built
 
-- **[Chess engine](https://github.com/NiranjanMedi/CubistHackathon)** for a quant hackathon
+- **Chess Engine** for a quant hackathon
 - **LiveCode**, a multiplayer code editor on CRDTs with sandboxed execution (in progress)
 - **SecureUs**, a neighborhood safety app people actually used
 
